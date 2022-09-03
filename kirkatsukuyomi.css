@@ -1,3 +1,17 @@
+/* 
+Public Kirka.io CSS #2 by NizzQ#9235
+Please do give credit if you decided to recolor :)
+
+-=Install Instructions for Browser=-
+    1. Install "Stylus" extension
+	2. Create a new style
+	3. Paste the source code into it or you can just C&P "@import url(https://nizzq.github.io/NizzQ2.css)" for updates
+	4. Enable it
+
+-=Install Instructions for Client=-
+	1. https://nizzq.github.io/NizzQ2.css
+ */
+/* Fonts */
 @font-face {
     font-family: gamefont;
     src: url("https://raw.githubusercontent.com/MOF1/krunker_css/main/css/fonts/Steradian-Bold.otf");
@@ -78,14 +92,14 @@
 }
 
 .interface .background{
-    background: url(https://media.discordapp.net/attachments/737156996242997358/1015731344334127224/unknown.png) repeat !important;
+    background: url(https://cdn.discordapp.com/attachments/919511402853580860/931100063827132456/pattern.png) repeat !important;
     height: 300%;
     background-position: 0px 0px;
     -webkit-animation: animate 10s linear infinite!important;
 }
 
 .end-modal {
-    background: url(https://media.discordapp.net/attachments/737156996242997358/1015731344334127224/unknown.png) repeat !important;
+    background: url(https://cdn.discordapp.com/attachments/919511402853580860/931100063827132456/pattern.png) repeat !important;
 }
 
 /* Loading Scene*/
